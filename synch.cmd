@@ -1,2 +1,2 @@
 git add .
-git commit - 'AutoSynch'
+git commit -m 'AutoSynch'
