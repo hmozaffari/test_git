@@ -1,3 +1,4 @@
+git checkout hm2
 REM Show current status
 cls
 git status
