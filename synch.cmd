@@ -1,3 +1,4 @@
+cls
 git status
 git branch -a
 
