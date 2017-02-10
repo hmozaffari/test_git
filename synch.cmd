@@ -14,5 +14,5 @@ git checkout master
 git pull origin master
 git merge hm2
 git push origin master
-
+git push origin hm2
 git checkout hm2
